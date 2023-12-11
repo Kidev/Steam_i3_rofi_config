@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/bin/bash
 
 case $(echo "Store\nLibrary\nFriends\nSettings\nConsole\nExit" | rofi -dmenu -i -p 'Steam Menu:') in
     "Store") steam steam://store ;;
