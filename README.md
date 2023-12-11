@@ -1,7 +1,7 @@
 # Steam (Linux i3+rofi menu config)
 A short script and the tutorial to create a shortcut to spawn a Steam menu on Linux with i3 and rofi, like the Steam process menu on Windows
 
-![image](https://github.com/Kidev/Steam_i3_rofi_config/assets/1204936/1750d7da-bd50-4801-8aee-be8dea53693d)
+![image](https://github.com/Kidev/Steam_i3_rofi_config/assets/1204936/1750d7da-bd50-4801-8aee-be8dea53693d) \
 _This is an example, the style of the menu is defined by your rofi config_
 
 
