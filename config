@@ -1,0 +1,3 @@
+
+bindsym F7 exec "bash /home/$USER/.config/scripts/steam_menu.sh"
+
