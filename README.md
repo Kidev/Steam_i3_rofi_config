@@ -1,6 +1,7 @@
 # Steam (Linux i3+rofi menu config)
-A short script and the tutorial to create a shortcut to spawn a Steam menu on Linux with i3 and rofi, like the Steam process menu on Windows 
+A short script and the tutorial to create a shortcut to spawn a Steam menu on Linux with i3 and rofi, like the Steam process menu on Windows
 
+_This is an example, the style of the menu is defined by your rofi config_
 ![image](https://github.com/Kidev/Steam_i3_rofi_config/assets/1204936/1750d7da-bd50-4801-8aee-be8dea53693d)
 
 
@@ -15,7 +16,7 @@ A short script and the tutorial to create a shortcut to spawn a Steam menu on Li
     ```
     wget -qO- "https://raw.githubusercontent.com/Kidev/Steam_i3_rofi_config/main/quickinstall.sh" | bash
     ```
-- Refresh your i3 using `$mod+Shift+r`
+- Refresh your i3 using `$mod+Shift+r` (`$mod` is often the `Alt` or `Win` key)
 - Spawn the menu with `F7`
 - To change the `F7` bind, edit `/home/$USER/.config/i3/config` last line and replace `F7` by your own bind. For example, to use `$mod+Shift+s`, replace with:
 ```
